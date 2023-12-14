@@ -29,6 +29,8 @@ html, body, #a {
 
 #content {
     margin: auto;
+    width: 75%;
+    max-width: 500px;
 }
 
 @keyframes color-change {
